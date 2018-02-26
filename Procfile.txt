@@ -1,1 +1,1 @@
-web: serial.py
+web: gunicorn serial.py
