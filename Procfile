@@ -1,1 +1,1 @@
-web: gunicorn serial:serial
+web: gunicorn serial:app
